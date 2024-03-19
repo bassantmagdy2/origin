@@ -1,4 +1,4 @@
-function printHelloWorld() {
+function printHelloJava() {
     console.log("Hello, World!");
 }
 
